@@ -1,0 +1,4 @@
+[fetch]
+	recurseSubmodules = false
+[http "https://gitlab.com"]
+	sslCAInfo = /home/jhonson/Desktop/gitlab-ci/cadastro-simples/builds/Qaox9tFd/0/jhtavares/cadastro-simples.tmp/CI_SERVER_TLS_CA_FILE
